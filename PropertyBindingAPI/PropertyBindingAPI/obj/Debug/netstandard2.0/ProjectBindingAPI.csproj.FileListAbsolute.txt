@@ -1,0 +1,8 @@
+C:\Users\Nathan\source\repos\ProjectBindingAPI\ProjectBindingAPI\bin\Debug\netstandard2.0\ProjectBindingAPI.deps.json
+C:\Users\Nathan\source\repos\ProjectBindingAPI\ProjectBindingAPI\bin\Debug\netstandard2.0\ProjectBindingAPI.dll
+C:\Users\Nathan\source\repos\ProjectBindingAPI\ProjectBindingAPI\bin\Debug\netstandard2.0\ProjectBindingAPI.pdb
+C:\Users\Nathan\source\repos\ProjectBindingAPI\ProjectBindingAPI\obj\Debug\netstandard2.0\ProjectBindingAPI.csprojAssemblyReference.cache
+C:\Users\Nathan\source\repos\ProjectBindingAPI\ProjectBindingAPI\obj\Debug\netstandard2.0\ProjectBindingAPI.AssemblyInfoInputs.cache
+C:\Users\Nathan\source\repos\ProjectBindingAPI\ProjectBindingAPI\obj\Debug\netstandard2.0\ProjectBindingAPI.AssemblyInfo.cs
+C:\Users\Nathan\source\repos\ProjectBindingAPI\ProjectBindingAPI\obj\Debug\netstandard2.0\ProjectBindingAPI.dll
+C:\Users\Nathan\source\repos\ProjectBindingAPI\ProjectBindingAPI\obj\Debug\netstandard2.0\ProjectBindingAPI.pdb

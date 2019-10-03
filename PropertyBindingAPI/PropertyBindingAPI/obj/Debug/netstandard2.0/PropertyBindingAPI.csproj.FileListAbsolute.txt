@@ -1,0 +1,15 @@
+C:\Users\Nathan\source\repos\ProjectBindingAPI\ProjectBindingAPI\bin\Debug\netstandard2.0\PropertyBindingAPI.deps.json
+C:\Users\Nathan\source\repos\ProjectBindingAPI\ProjectBindingAPI\bin\Debug\netstandard2.0\PropertyBindingAPI.dll
+C:\Users\Nathan\source\repos\ProjectBindingAPI\ProjectBindingAPI\bin\Debug\netstandard2.0\PropertyBindingAPI.pdb
+C:\Users\Nathan\source\repos\ProjectBindingAPI\ProjectBindingAPI\obj\Debug\netstandard2.0\PropertyBindingAPI.AssemblyInfoInputs.cache
+C:\Users\Nathan\source\repos\ProjectBindingAPI\ProjectBindingAPI\obj\Debug\netstandard2.0\PropertyBindingAPI.AssemblyInfo.cs
+C:\Users\Nathan\source\repos\ProjectBindingAPI\ProjectBindingAPI\obj\Debug\netstandard2.0\PropertyBindingAPI.dll
+C:\Users\Nathan\source\repos\ProjectBindingAPI\ProjectBindingAPI\obj\Debug\netstandard2.0\PropertyBindingAPI.pdb
+D:\Users\Nathan\Documents\OpenPA\PropertyBindingAPI\PropertyBindingAPI\PropertyBindingAPI\bin\Debug\netstandard2.0\PropertyBindingAPI.deps.json
+D:\Users\Nathan\Documents\OpenPA\PropertyBindingAPI\PropertyBindingAPI\PropertyBindingAPI\bin\Debug\netstandard2.0\PropertyBindingAPI.dll
+D:\Users\Nathan\Documents\OpenPA\PropertyBindingAPI\PropertyBindingAPI\PropertyBindingAPI\bin\Debug\netstandard2.0\PropertyBindingAPI.pdb
+D:\Users\Nathan\Documents\OpenPA\PropertyBindingAPI\PropertyBindingAPI\PropertyBindingAPI\obj\Debug\netstandard2.0\PropertyBindingAPI.AssemblyInfoInputs.cache
+D:\Users\Nathan\Documents\OpenPA\PropertyBindingAPI\PropertyBindingAPI\PropertyBindingAPI\obj\Debug\netstandard2.0\PropertyBindingAPI.AssemblyInfo.cs
+D:\Users\Nathan\Documents\OpenPA\PropertyBindingAPI\PropertyBindingAPI\PropertyBindingAPI\obj\Debug\netstandard2.0\PropertyBindingAPI.dll
+D:\Users\Nathan\Documents\OpenPA\PropertyBindingAPI\PropertyBindingAPI\PropertyBindingAPI\obj\Debug\netstandard2.0\PropertyBindingAPI.pdb
+D:\Users\Nathan\Documents\OpenPA\PropertyBindingAPI\PropertyBindingAPI\PropertyBindingAPI\obj\Debug\netstandard2.0\PropertyBindingAPI.csprojAssemblyReference.cache
